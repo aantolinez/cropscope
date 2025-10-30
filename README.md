@@ -139,7 +139,7 @@ These quality controls ensure that datasets are diverse, non-redundant, and opti
 💾 Data Availability
 
 A representative dataset processed using CropScope is publicly available on Zenodo:
-👉 https://doi.org/10.5281/zenodo.xxxxxxx
+👉 https://doi.org/10.5281/zenodo.17486819
 
 📚 Citation
 
